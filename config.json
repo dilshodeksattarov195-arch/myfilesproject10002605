@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersecrypt",
+        "uuid": 15132445,
+        "checksum": "kitjb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
